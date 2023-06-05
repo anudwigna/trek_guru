@@ -1,0 +1,8 @@
+langchain
+requests
+streamlit
+python-dotenv
+beautifulsoup4
+nltk
+sentence_transformers
+faiss-cpu
